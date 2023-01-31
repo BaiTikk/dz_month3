@@ -1,0 +1,27 @@
+[
+  {
+    "price": "$100",
+    "name": "things",
+    "img": "img/tovar.png"
+  },
+  {
+    "price": "$1000",
+    "name": "things",
+    "img": "img/tovar.png"
+  },
+  {
+    "price": "$120",
+    "name": "things",
+    "img": "img/tovar.png"
+  },
+  {
+    "price": "$155",
+    "name": "things",
+    "img": "img/tovar.png"
+  },
+  {
+    "price": "$90",
+    "name": "things",
+    "img": "img/tovar.png"
+  }
+]
